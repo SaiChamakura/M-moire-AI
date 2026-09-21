@@ -1,0 +1,6 @@
+{
+  "name": "Mémoire AI",
+  "description": "AI-powered personal classroom companion for college students, turning lectures and classes into structured study material.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
